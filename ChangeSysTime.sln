@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeSysTimeApp", "ChangeS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeSysTimeServiceManager", "ChangeSysTimeServiceManager\ChangeSysTimeServiceManager.csproj", "{4866946C-6083-4424-95E2-F47DB842056B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeSysTimeFrmApp", "ChangeSysTimeFrmApp\ChangeSysTimeFrmApp.csproj", "{F7E6E1B9-804A-4E35-864B-6B6AE116633D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4866946C-6083-4424-95E2-F47DB842056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4866946C-6083-4424-95E2-F47DB842056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4866946C-6083-4424-95E2-F47DB842056B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E6E1B9-804A-4E35-864B-6B6AE116633D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E6E1B9-804A-4E35-864B-6B6AE116633D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E6E1B9-804A-4E35-864B-6B6AE116633D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E6E1B9-804A-4E35-864B-6B6AE116633D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
